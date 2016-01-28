@@ -129,6 +129,7 @@ Home Page Posters Styles
 	opacity: 0;
 	transition: 0.5s ease-in-out;
 	padding: 30px 15px;
+	width: 100%;
 }
 .poster-info-overlay h3 {
 	text-transform: uppercase;
